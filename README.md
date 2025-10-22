@@ -61,7 +61,7 @@ Here are examples of insights the scripts are designed to reveal:
 
 ## ⚙️ Tech Stack
 - **Language:** SQL  
-- **Environment:** DBeaver / pgAdmin / SQL Workbench  
+- **Environment:** SSMS (SQL Server Management Studio) 
 - **Data Source:** Simulated warehouse data (Post-ETL)
 
 ---
