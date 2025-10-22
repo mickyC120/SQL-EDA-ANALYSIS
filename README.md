@@ -60,7 +60,6 @@ Here are examples of insights the scripts are designed to reveal:
 ---
 
 ## ⚙️ Tech Stack
-- **Database:** PostgreSQL  
 - **Language:** SQL  
 - **Environment:** DBeaver / pgAdmin / SQL Workbench  
 - **Data Source:** Simulated warehouse data (Post-ETL)
