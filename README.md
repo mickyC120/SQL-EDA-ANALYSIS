@@ -74,8 +74,7 @@ I followed along and implemented the scripts independently to deepen my understa
 
 ---
 
-## 🧠 Author
-**AM MICH**  
-Strategic Business Intelligence & Growth Consultant  
-Transforming complex data into strategy, clarity, and measurable growth.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AM--MICH-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+###### 👤 About Me
+I'm **Micheal Ani**, a **Business Data Analyst & Business Intelligence**. I blend **business acumen** with **data expertise**.
+Transforming data into clarity, strategy, and measurable business growth.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ANI--MICHEAL-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/micheal-ani-b76716291)
